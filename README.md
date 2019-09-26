@@ -23,7 +23,7 @@
 5. Pull request 이름은 다음과 같다. "[작성자 이름]문제 이름" 
    - **ex) [이병만] 타겟넘버**
 6. 사용 언어는 문제 풀이자가 원하는 언어를 사용한다.
-7. 매주 할당 문제를 풀지 못하면 경고:no_entry:가 주어진다. (:bangbang:경고 2회가 되면 퇴장조치:bangbang:)
+7. 매주 할당 문제를 풀지 못하면 경고:no_entry:가 주어진다. (:heavy_exclamation_mark::heavy_exclamation_mark:경고 2회가 되면 퇴장조치:heavy_exclamation_mark::heavy_exclamation_mark:)
 
 ### Problem List
 
