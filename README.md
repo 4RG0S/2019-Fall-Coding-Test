@@ -20,10 +20,11 @@
    - **ex) problem/문제번호/작성자 이름 ex) problem/1206/김창희**
 4. 폴더의 구조는 다음과 같다. 2019-Fall-Coding-Test > 문제 이름 > 작성자 이름 > 제출한 코드 파일 
    - **ex) 2019-Fall-Coding-Test/이병만/타겟넘버/Solution.py**
-5. Pull request 이름은 다음과 같다. "[작성자 이름]문제 이름" 
+5. 구현한 코드에 대한 설명은 작성자 이름 폴더에 :notebook_with_decorative_cover:README에 작성한다.
+6. Pull request 이름은 다음과 같다. "[작성자 이름]문제 이름" 
    - **ex) [이병만] 타겟넘버**
-6. 사용 언어는 문제 풀이자가 원하는 언어를 사용한다.
-7. 매주 할당 문제를 풀지 못하면 경고:no_entry:가 주어진다. (:heavy_exclamation_mark::heavy_exclamation_mark:경고 2회가 되면 퇴장조치:heavy_exclamation_mark::heavy_exclamation_mark:)
+7. 사용 언어는 문제 풀이자가 원하는 언어를 사용한다.
+8. 매주 할당 문제를 풀지 못하면 경고:no_entry:가 주어진다. (:heavy_exclamation_mark::heavy_exclamation_mark:경고 2회가 되면 퇴장조치:heavy_exclamation_mark::heavy_exclamation_mark:)
 
 ### Problem List
 
