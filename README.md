@@ -24,11 +24,13 @@
    - **ex) [이병만] 타겟넘버**
 7. 사용 언어는 문제 풀이자가 원하는 언어를 사용한다.
 8. 매주 할당 문제를 풀지 못하면 경고:no_entry:가 주어진다. (:heavy_exclamation_mark::heavy_exclamation_mark:경고 2회가 되면 퇴장조치:heavy_exclamation_mark::heavy_exclamation_mark:)
+9. :heavy_exclamation_mark: **추가 규칙** :heavy_exclamation_mark: Extra Problem은 풀고 싶은 사람에만 풀어도 된다. - 다음에 못 푼 문제 대체 가능
 
 ### Problem List
 
 ##### Programmers
 
-|        |                          Problem 1                           |                          Problem 2                           |
-| :----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 1 week | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [베스트앨범](<https://programmers.co.kr/learn/courses/30/lessons/42579>) |
+|        |                          Problem 1                           |                          Problem 2                           |                        Extra Problem                         |
+| :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 1 week | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [베스트앨범](<https://programmers.co.kr/learn/courses/30/lessons/42579>) |                              X                               |
+| 2 week | [디스크 컨트롤러](<https://programmers.co.kr/learn/courses/30/lessons/42627>) | [여행경로](<https://programmers.co.kr/learn/courses/30/lessons/43164>) | [19 KAKAO 오픈채팅방](<https://programmers.co.kr/learn/courses/30/lessons/42888>) |
