@@ -34,8 +34,10 @@ def solution(genres, plays):
                 temp_list.append(i)
                 temp.append(temp_list)
         b = sorted(temp, key=lambda x: (-x[1], x[2]))
-        result.append(b[0][2])
-        result.append(b[1][2])
+        for i in range(0, len(b)):
+            if i == 2:
+                break
+            result.append(b[i][2])
 
     print(result)
 
