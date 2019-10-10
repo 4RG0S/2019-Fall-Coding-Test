@@ -10,7 +10,7 @@
 
 ### :baby:참가자
 
-이병만 (팀장), 김창희, 이수정, 배상웅, 임형섭, 김현묵, 임성근
+이병만 (팀장), 김창희, 이수정, 배상웅, 임형섭, 김현묵, 임성근, 이금철
 
 ### :pushpin:진행 방식
 
@@ -34,10 +34,11 @@
 | :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 1 week | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [베스트앨범](<https://programmers.co.kr/learn/courses/30/lessons/42579>) |                              X                               |
 | 2 week | [디스크 컨트롤러](<https://programmers.co.kr/learn/courses/30/lessons/42627>) | [여행경로](<https://programmers.co.kr/learn/courses/30/lessons/43164>) | [19 KAKAO 오픈채팅방](<https://programmers.co.kr/learn/courses/30/lessons/42888>) |
+| 3 week | [단어변환](<https://programmers.co.kr/learn/courses/30/lessons/43163>) | [저울](<https://programmers.co.kr/learn/courses/30/lessons/42886>) | [19 KAKAO 실패율](<https://programmers.co.kr/learn/courses/30/lessons/42889>) |
 
 ### :name_badge:경고자
 
-|        |                          |
-| :----: | :----------------------: |
+|        |                     |
+| :----: | :-----------------: |
 | 1 week | 임형섭 (:no_entry:) |
 
