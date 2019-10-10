@@ -15,12 +15,12 @@
 ### :pushpin:진행 방식
 
 1. **Git을 많이 사용해보기 위해 다음과 같은 방식으로 진행한다.**
-2. 매 주 한 번씩 모여 문제 풀이를 공유 및 스터디를 진행한다. (시간 미정)
+2. 매 주 한 번씩 모여 문제 풀이를 공유 및 스터디를 진행한다. (매주 목요일 5시)
 3. 모든 코드의 업로드는 각자의 브랜치를 통해 진행하고, 팀장이 통합하는 방식으로 진행한다. 
 4. 폴더의 구조는 다음과 같다. 2019-Fall-Coding-Test > 문제 이름 > 작성자 이름 > 제출한 코드 파일 
    - **ex) 2019-Fall-Coding-Test/타켓넘버/이병만/Solution.py**
 5. 구현한 코드에 대한 설명은 작성자 이름 폴더에 :notebook_with_decorative_cover:README에 작성한다.
-6. Pull request 이름은 다음과 같다. "[작성자 이름]문제 이름" 
+6. Pull request 이름은 다음과 같다. "[작성자 이름] 문제 이름" 
    - **ex) [이병만] 타겟넘버**
 7. 사용 언어는 문제 풀이자가 원하는 언어를 사용한다.
 8. 매주 할당 문제를 풀지 못하면 경고:no_entry:가 주어진다. (:heavy_exclamation_mark::heavy_exclamation_mark:경고 2회가 되면 퇴장조치:heavy_exclamation_mark::heavy_exclamation_mark:)
@@ -41,4 +41,3 @@
 |        |                     |
 | :----: | :-----------------: |
 | 1 week | 임형섭 (:no_entry:) |
-
