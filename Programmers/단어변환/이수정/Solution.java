@@ -1,4 +1,5 @@
 import java.util.*;
+
 class Solution {
     static int min;
     public int solution(String begin, String target, String[] words) {
