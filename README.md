@@ -35,10 +35,13 @@
 | 1 week | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [베스트앨범](<https://programmers.co.kr/learn/courses/30/lessons/42579>) |                              X                               |
 | 2 week | [디스크 컨트롤러](<https://programmers.co.kr/learn/courses/30/lessons/42627>) | [여행경로](<https://programmers.co.kr/learn/courses/30/lessons/43164>) | [19 KAKAO 오픈채팅방](<https://programmers.co.kr/learn/courses/30/lessons/42888>) |
 | 3 week | [단어변환](<https://programmers.co.kr/learn/courses/30/lessons/43163>) | [저울](<https://programmers.co.kr/learn/courses/30/lessons/42886>) | [19 KAKAO 실패율](<https://programmers.co.kr/learn/courses/30/lessons/42889>) |
+| 4 week | [네트워크](<https://programmers.co.kr/learn/courses/30/lessons/43162>) | [구명보트](<https://programmers.co.kr/learn/courses/30/lessons/42885>) | [19 KAKAO 후보키](<https://programmers.co.kr/learn/courses/30/lessons/42890>) |
 
 ### :name_badge:경고자
 
 |        |                        |
 | :----: | :--------------------: |
 | 1 week |           X            |
-| 2 week | 임형섭|
+| 2 week |         임형섭         |
+| 3 week | 배상웅, 임형섭, 임성근 |
+
