@@ -37,6 +37,7 @@
 | 3 week | [단어변환](<https://programmers.co.kr/learn/courses/30/lessons/43163>) | [저울](<https://programmers.co.kr/learn/courses/30/lessons/42886>) | [19 KAKAO 실패율](<https://programmers.co.kr/learn/courses/30/lessons/42889>) |
 | 4 week | [네트워크](<https://programmers.co.kr/learn/courses/30/lessons/43162>) | [구명보트](<https://programmers.co.kr/learn/courses/30/lessons/42885>) | [19 KAKAO 후보키](<https://programmers.co.kr/learn/courses/30/lessons/42890>) |
 | 5 week | [가장 먼 노드](<https://programmers.co.kr/learn/courses/30/lessons/49189>) | [타일 장식물](<https://programmers.co.kr/learn/courses/30/lessons/43104>) | [18 KAKAO 자동완성](<https://programmers.co.kr/learn/courses/30/lessons/17685>) |
+| 6 week | [순위](<https://programmers.co.kr/learn/courses/30/lessons/49191>) | [섬 연결하기](<https://programmers.co.kr/learn/courses/30/lessons/42861>) | [18 KAKAO 다트 게임](<https://programmers.co.kr/learn/courses/30/lessons/17682>) |
 
 ### :name_badge:경고자
 
@@ -46,3 +47,5 @@
 | 2 week |           X            |
 | 3 week |         임성근         |
 | 4 week | 배상웅, 임성근, 임형섭 |
+| 5 week |                        |
+
